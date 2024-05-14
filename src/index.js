@@ -4,6 +4,7 @@ import { createMenuButton, createMenuTab } from "./menu";
 import './style.css'
 console.log('sharad');
 
+document.title = "res."
 
 function component() {
     const container = document.createElement('div');
